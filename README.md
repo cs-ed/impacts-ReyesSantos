@@ -13,7 +13,7 @@ Students will take time to write a reflection based on the discussions. Teacher 
 
 Unit 1 - Problem Solving and Computing (3 Weeks)
 	What strategies and processes can I use to become a more effective problem solver?
-     Class activity:
+     Class activity
      Students brainstorms classroom norms to create a classroom norms poster.
 	What rules/norms are needed to create the best class ever for all students?
      Reflection Journal/Teacher feedback: Which 2 norms are the easiest to follow and which 2   
@@ -21,7 +21,7 @@ Unit 1 - Problem Solving and Computing (3 Weeks)
      Rubric: 1-4
      
 	How do computers help people to solve problems?
-Class activity:
+     Class activity:
      Revisit classroom norms.
      Pair share and class discussion: How do computers help people to solve problems?
                        *Write ideas on post-its and place on poster board.
@@ -33,9 +33,9 @@ Class activity:
 	What does a computer need from people in order to solve problems effectively?
 	
 Unit 2 - Web Development (7 Weeks)
-	Why do people create websites?
-	How can text communicate content and structure on a web page?
-	How do I safely and appropriately make use of the content published on the internet?
+	  Why do people create websites?
+	  How can text communicate content and structure on a web page?
+	  How do I safely and appropriately make use of the content published on the internet?
 Digital Footprint
 The class begins by discussing what types of information they have shared on various websites, then they look at several sample social media pages to see what types of personal information could be shared intentionally or unintentionally. Finally, the class comes up with a set of guidelines to follow when putting information online.
  Class activity:
