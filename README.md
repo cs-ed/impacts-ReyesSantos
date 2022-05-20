@@ -13,7 +13,7 @@ Students will take time to write a reflection based on the discussions. Teacher 
 
 Unit 1 - Problem Solving and Computing (3 Weeks)
 	What strategies and processes can I use to become a more effective problem solver?
-Class activity:
+     Class activity:
      Students brainstorms classroom norms to create a classroom norms poster.
 	What rules/norms are needed to create the best class ever for all students?
      Reflection Journal/Teacher feedback: Which 2 norms are the easiest to follow and which 2   
