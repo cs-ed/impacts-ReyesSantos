@@ -133,12 +133,12 @@ Unit 6 - Physical Computing (6 Weeks)
 
 ### Learning Activities
 
-The daily discussions will bring forward issues of  opportunity and to resolve these wihin our classroom.  Student will respectfully engage in discussion. I have experienced students willing to listen, learn, and change. 
+The daily discussions will bring forward issues and opportunities to grow within our classroom.  Student will respectfully engage in discussion. I have experienced students willing to listen, learn, and resilient adapters. 
 
 ### Assessment
 
-As outlined the discussion participation and journal reflections will be graded based on a rubric. Reflection writing in a journal with teacher feed back.
+As outlined the discussion participation and journal reflections will be graded based on a rubric. Reflection writing in a journal with teacher feed back. I will keep aware of hot topics to keep students on task.
 
 ### Outcomes
 
-As our discussion progress throughtout the year we will see emerging patterns of diversity/equity/inclusion.  Student will share experiences, beliefs, and be able to respectfully hear others out. Student will be able to critically think about the validity of web information.  help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+As our discussion progress throughtout the year we will see emerging patterns of diversity/equity/inclusion. Students will share experiences, beliefs, and be able to respectfully hear others out. Student will be able to critically think about the validity of web information.  Discussions will help students to be accepting and keep cognizant of help diversify participation in computing.
