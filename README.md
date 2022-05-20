@@ -16,9 +16,10 @@ Unit 1 - Problem Solving and Computing (3 Weeks)
 Class activity:
      Students brainstorms classroom norms to create a classroom norms poster.
 	What rules/norms are needed to create the best class ever for all students?
-    Reflection Journal/Teacher feedback: Which 2 norms are the easiest to follow and which 2   
-    norms maybe a challenge to follow? 
-    Rubric: 1-4
+     Reflection Journal/Teacher feedback: Which 2 norms are the easiest to follow and which 2   
+     norms maybe a challenge to follow? 
+     Rubric: 1-4
+     
 	How do computers help people to solve problems?
 Class activity:
      Revisit classroom norms.
